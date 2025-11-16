@@ -1,9 +1,11 @@
-###########         FitAI — AI Powered Fitness Assistant         ##################
-
+************         FitAI — AI Powered Fitness Assistant        **************
 FitAI is an AI-based fitness and workout assistant that helps users generate personalized workout plans, track fitness goals, and interact with a smart chatbot for guidance.
 It provides a friendly UI, real-time responses, and helpful fitness recommendations powered by AI.
 
-#########    Features       ###############
+
+
+
+*************    Features       *************
 
  AI Chatbot for fitness queries
  Personalized Workout Plans
@@ -15,7 +17,9 @@ It provides a friendly UI, real-time responses, and helpful fitness recommendati
  Fast and responsive interface
 
  
-##################     Tech Stack         ################
+
+ 
+******************     Tech Stack         ********************
 
 # Frontend
    React.js
