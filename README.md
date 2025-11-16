@@ -8,7 +8,7 @@ It provides a friendly UI, real-time responses, and helpful fitness recommendati
  AI Chatbot for fitness queries
  Personalized Workout Plans
  Deep Learning–based text processing
- Language Translation Support (if included)
+ Language Translation Support 
  Save & Copy Text
  Modern React UI
  Docker Support for easy deployment
@@ -21,10 +21,10 @@ It provides a friendly UI, real-time responses, and helpful fitness recommendati
    React.js
    HTML, CSS, JavaScript
    Axios
-   Tailwind / Material UI (if used)
+   Tailwind / Material UI 
 
 # Backend
-   Python / FastAPI / Node.js (your setup)
+   Python / FastAPI / Node.js 
    Deep learning / NLP model
 
 # Tools
